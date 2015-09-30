@@ -1,0 +1,17 @@
+# Blender v2.72 (sub 0) OBJ File: ''
+# www.blender.org
+mtllib tetrahedron_small.mtl
+o tetrahedron_small
+v 0.000000 -0.500000 -0.000000
+v 0.500000 0.500000 -0.500000
+v 0.500000 0.500000 0.500000
+v -0.500000 0.500000 0.500000
+v -0.500000 0.500000 -0.500000
+v 0.000000 0.500000 -0.500000
+usemtl Material
+s off
+f 2 6 5 4 3
+f 1 2 3
+f 1 3 4
+f 1 4 5
+f 2 1 5 6

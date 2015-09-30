@@ -1,0 +1,142 @@
+#Voronoi test data
+
+NewPoint 0 100
+    roadSize = 0.3
+    density = 100
+    pVector = 0.05 0.1 0.1 0.75
+    tidyness = 0.7
+    gridSize = 2
+    height = 10+50*a*a*a
+    length = 10+10*a*a*a
+    width = 10+3*a*a*a*a*a
+
+
+    SubPoint 3 100
+        roadSize = 0.2
+        density = 599
+        pVector = 0.05 0.1 0.1 0.75
+    SubPoint 5 100
+        roadSize = 0.2
+        density = 599
+        pVector = 0.05 0.1 0.1 0.75
+    SubPoint 20 100
+        roadSize = 0.2
+        density = 599
+        pVector = 0.05 0.1 0.1 0.75
+    
+NewPoint 10 33
+    roadSize = 1.5
+    density = 50
+    pVector = 0.05 0.1 0.1 0.75
+    tidyness = 0.7
+    gridSize = 2
+    height = 10+50*a*a*a
+    length = 10+10*a*a*a
+    width = 10+3*a*a*a*a*a
+
+    SubPoint 8 33
+        roadSize = 0.2
+        density = 599
+        pVector = 0.05 0.1 0.1 0.75
+    SubPoint 12 35
+        roadSize = 0.2
+        density = 599
+        pVector = 0.05 0.1 0.1 0.75
+    SubPoint 50 50 
+        roadSize = 0.2
+        density = 599
+        pVector = 0.05 0.1 0.1 0.75
+NewPoint 20 60
+    roadSize = 1.0
+    density = 1000
+    pVector = 0.05 0.1 0.1 0.75
+    tidyness = 0.7
+    gridSize = 2
+    height = 10+50*a*a*a
+    length = 10+10*a*a*a
+    width = 10+3*a*a*a*a*a
+
+    SubPoint 25 60
+        roadSize = 0.2
+        density = 599
+        pVector = 0.05 0.1 0.1 0.75
+    SubPoint 20 40
+        roadSize = 0.2
+        density = 599
+        pVector = 0.05 0.1 0.1 0.75
+NewPoint 30 98
+    roadSize = 0.3
+    density = 5991
+    pVector = 0.05 0.1 0.1 0.75
+    tidyness = 0.7
+    gridSize = 2
+    height = 10+50*a*a*a
+    length = 10+10*a*a*a
+    width = 10+3*a*a*a*a*a
+
+    SubPoint 40 90
+        roadSize = 0.2
+        density = 599
+        pVector = 0.05 0.1 0.1 0.75
+    SubPoint 30 100
+        roadSize = 0.2
+        density = 599
+        pVector = 0.05 0.1 0.1 0.75
+NewPoint 90 20
+    roadSize = 1.0
+    density = 5991
+    pVector = 0.05 0.1 0.1 0.75
+    tidyness = 0.7
+    gridSize = 2
+    height = 10+50*a*a*a
+    length = 10+10*a*a*a
+    width = 10+3*a*a*a*a*a
+
+    SubPoint 95 20
+        roadSize = 0.2
+        density = 599
+        pVector = 0.05 0.1 0.1 0.75
+    SubPoint 90 25
+        roadSize = 0.2
+        density = 599
+        pVector = 0.05 0.1 0.1 0.75
+
+NewPoint 50 10
+    roadSize = 0.3
+    density = 10
+    pVector = 0.05 0.1 0.1 0.75
+    tidyness = 0.7
+    gridSize = 2
+    height = 10+50*a*a*a
+    length = 10+10*a*a*a
+    width = 10+3*a*a*a*a*a
+
+    SubPoint 45 5
+        roadSize = 0.2
+        density = 599
+        pVector = 0.05 0.1 0.1 0.75
+    SubPoint 55 15
+        roadSize = 0.2
+        density = 599
+        pVector = 0.05 0.1 0.1 0.75
+
+NewPoint 10 10
+    roadSize = 0.5
+    density = 5991
+    pVector = 0.05 0.1 0.1 0.75
+    tidyness = 0.7
+    gridSize = 2
+    height = 10+50*a*a*a
+    length = 10+10*a*a*a
+    width = 10+3*a*a*a*a*a
+
+    SubPoint 15 15
+        roadSize = 0.2
+        density = 599
+        pVector = 0.05 0.1 0.1 0.75
+    SubPoint 5 5
+        roadSize = 0.2
+        density = 599
+        pVector = 0.05 0.1 0.1 0.75
+
+

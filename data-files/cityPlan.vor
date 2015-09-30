@@ -1,0 +1,302 @@
+#Voronoi test data
+
+# RIGHT SIDE OF INNER DISTRICT 
+NewPoint 650 200
+   roadSize = 5
+   density = 10
+   pVector = 0 0 0 1.0
+   tidyness = .8
+   gridSize = 15
+   height = 70+50*a+85*a*a*a*a*a
+   length = 20+15*a
+   width = 20+15*a
+
+   #SubPoint 661 135
+   SubPoint 0 0
+   SubPoint 661 250
+
+NewPoint 650 300
+   roadSize = 5
+   density = 10
+   pVector = 0 0 0 1.0
+   tidyness = .8
+   gridSize = 15
+   height = 70+50*a+85*a*a*a*a*a
+   length = 20+15*a
+   width = 20+15*a
+
+   #SubPoint 661 250
+   SubPoint 0 0
+   SubPoint 661 370
+
+# END RIGHT SIDE OF INNER DISTRICT 
+
+#TRIAGE 
+# UPPER RIGHT TOP FROM INNER DISTRICT 
+NewPoint 615 100
+   roadSize = 5
+   density = 9
+   #density = 0 
+   pVector = 0 0 0 1.0
+   tidyness = 0.9
+   gridSize = 20
+   height = 20+20*a+20*a*a*a*a*a
+   length = 20+12*a
+   width = 20+12*a
+   #SubPoint 735 100
+   SubPoint 0 0 
+   SubPoint 600 100
+
+# BOTTOM RIGHT FROM INNER DISTRICT 
+NewPoint 615 400
+   roadSize = 5
+   density = 7
+   pVector = 0 0 0 1.0
+   tidyness = 0.7
+   gridSize = 15
+   height = 30+20*a+40*a*a*a*a
+   length = 20+12*a
+   width = 20+12*a
+   #SubPoint 670 450
+   SubPoint 0 0
+   SubPoint 670 350
+
+#TRIAGE 
+# UPPER LEFT TOP FROM INNER DISTRICT
+NewPoint 585 100
+   roadSize = 5
+   density = 9
+   #density = 0 
+   pVector = 0 0 0 1.0
+   tidyness = 0.9
+   gridSize = 20
+   height = 20+20*a+20*a*a*a*a
+   length = 20+12*a
+   width = 20+12*a
+   #SubPoint 600 85
+   SubPoint 0 0
+   SubPoint 470 85
+
+# BOTTOM LEFT FROM INNER DISTRICT 
+NewPoint 585 400
+   roadSize = 4
+   density = 9
+   pVector =  0 0 0 1.0
+   tidyness = 0.9
+   gridSize = 14
+   height = 30+20*a+20*a*a*a
+   length = 20+12*a
+   width = 20+12*a
+   #SubPoint 585 450
+   SubPoint 0 0
+   SubPoint 585 350
+
+
+# LEFT SIDE OF INNER DISTRICT 
+NewPoint 550 200
+   roadSize = 5
+   density = 10
+   pVector = 0 0 0 1.0
+   tidyness = .8
+   gridSize = 15
+   height = 70+50*a+85*a*a*a*a*a
+   #height = 10
+   length = 20+15*a
+   width = 20+15*a
+   #SubPoint 545 135
+   SubPoint 0 0 
+   SubPoint 545 250
+
+
+NewPoint 550 300
+   roadSize = 5
+   density = 10
+   pVector = 0 0 0 1.0
+   tidyness = .8
+   gridSize = 15
+   height = 70+50*a+85*a*a*a*a*a
+   #height = 10
+   length = 20+15*a
+   width = 20+15*a
+   #SubPoint 545 250
+   SubPoint 0 0 
+   SubPoint 545 370
+
+# END LEFT SIDE 
+
+
+#-------------------------------------------
+
+#TRIAGE 
+# RIGHT MOST UPPER
+NewPoint 750 200
+   roadSize = 5
+   density = 2
+   #density = 0 
+   pVector = 0 0 0 1.0
+   tidyness = 0.9
+   gridSize = 20
+   height = 20+20*a+20*a*a*a*a
+   length = 20+12*a
+   width = 20+12*a
+   SubPoint 775 35
+   SubPoint 735 35
+   SubPoint 775 165
+   SubPoint 735 165
+   SubPoint 775	220
+   SubPoint 735 220
+
+#TRIAGE 
+# RIGHT MOST MID 
+NewPoint 750 300
+   roadSize = 5
+   #density = 0 
+   density = 3
+   pVector = 0 0 0 1.0
+   tidyness = 0.9
+   gridSize = 20
+   height = 20+20*a+20*a*a*a*a
+   length = 20+12*a
+   width = 20+12*a
+   SubPoint 775 275
+   SubPoint 735 275
+   SubPoint 775 345
+   SubPoint 735 345
+   SubPoint 775 455
+   SubPoint 735 455
+
+#-----------------------------------------
+
+# TOP LEFT OUT FROM INNER DISTRICT 
+NewPoint 450 200
+   roadSize = 5
+   density = 7
+   pVector = 0 0 0 1.0
+   tidyness = 0.7
+   gridSize = 15
+   height = 30+20*a+40*a*a*a*a
+   length = 25+12*a
+   width = 25+12*a
+   SubPoint 350 285
+   SubPoint 450 285
+   SubPoint 350 100
+   SubPoint 450 100
+
+# BOTTOM LEFT OUT FROM INNER DISTRICT
+NewPoint 450 400
+   roadSize = 5
+   density = 7
+   pVector = 0 0 0 1.0
+   tidyness = 0.7
+   gridSize = 15
+   height = 30+10*a+20*a*a*a*a
+   length = 25+12*a
+   width = 25+12*a
+   SubPoint 350 300
+   SubPoint 350 500
+   SubPoint 450 300
+   SubPoint 450 500
+
+# CENTER DISTRICT 
+NewPoint 600 250
+   roadSize = 80
+   density = 0
+   pVector = 0 0 0 1.0
+   tidyness = 0.7
+   gridSize = 8
+   height = 10+50*a*a*a
+   length = 30+15*a*a
+   width = 30+15*a*a
+   SubPoint 600 250
+   SubPoint 0 0
+
+# OUTSKIRTS - recommended do not generate 
+NewPoint 225 150
+   roadSize = 5
+   density = 7
+   #density = 0 
+   pVector = 0 0 0 1.0
+   tidyness = 0.7
+   gridSize = 15
+   height = 10 + 20 * a *a*a*a
+   length = 35 + 15 * a
+   width = 35 + 15 * a
+   SubPoint 225 100
+   SubPoint 300 285
+   SubPoint 300 100
+   SubPoint 225 285
+
+# LOWER OUTSKIRTS - recommended do not generate 
+NewPoint 225 550
+   roadSize = 5
+   density = 7
+   #density = 0 
+   pVector = 0 0 0 1.0
+   tidyness = 0.7
+   gridSize = 15
+   height = 10+20*a*a*a*a
+   length = 35+15*a
+   width = 35+15*a
+   SubPoint 225 450
+   SubPoint 300 450
+
+#Matt's Buildings
+NewPoint 150 150
+   roadSize = 1
+   density = 4
+   pVector = 1.0 0 0 0.0
+   tidyness = 0.7
+   gridSize = 8
+   height = 30+20*a
+   length = 30+10*a*a
+   width = 30+10*a*a
+   SubPoint 0 0
+   SubPoint 800 600
+
+#Don't even bother ... 
+NewPoint 150 550
+   roadSize = 1
+   density = 0
+   pVector = 0 0 0 1.0
+   tidyness = 0.7
+   gridSize = 8
+   height = 10+50*a*a*a
+   length = 10+10*a*a*a
+   width = 10+3*a*a*a*a*a
+   SubPoint 50 400
+   SubPoint 150 400
+   SubPoint 50 550
+   SubPoint 150 550
+
+#TRIAGE 
+# BOTTOM CORRIDOR 
+NewPoint 600 480
+   roadSize = 2
+   #density = 0
+   density = 6
+   pVector = 0 0 0 1.0
+   tidyness = 0.9
+   gridSize = 14
+   height = 25+10*a+10*a*a*a
+   length = 25+20*a
+   width = 25+20*a
+   #SubPoint 560 485
+   SubPoint 0 0 
+   SubPoint 720 485
+
+#TRIAGE 
+#BOTTOMMOST CORRIDOR RIGHT CORNER
+NewPoint 600 560
+   roadSize = 5
+   density = 10
+   #density = 0
+   pVector = 0 0 0 1.0
+   tidyness = 0.7
+   gridSize = 15
+   height = 10+20*a*a*a*a
+   length = 35+15*a
+   width = 35+15*a
+   SubPoint 560 560
+   SubPoint 720 560
+
+

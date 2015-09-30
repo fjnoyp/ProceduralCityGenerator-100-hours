@@ -1,0 +1,49 @@
+{
+    models = {
+        buildingModel0 = ArticulatedModel::Specification {
+            filename =  "test.obj"; 
+        };
+   };
+
+     entities = {
+
+        camera = Camera { 
+               frame = CFrame::fromXYZYPRDegrees(  6.0f,   6.3f,  -5.1f,  143.3f, -20.1f,   0.0f)
+        };                      
+
+        skybox = Skybox { 
+            texture = Texture::Specification { 
+                encoding = Texture::Encoding { 
+                    readMultiplyFirst = 1; 
+                }; 
+                filename = "devinsky/nightsky_*.jpg";
+            }; 
+                
+        }; 
+  
+        
+        sun = Light { 
+            bulbPower = 1200;
+            castsShadows = true; 
+            enabled = true; 
+            farPlaneZLimit = -130; 
+            frame = CFrame::fromXYZYPRDegrees( -4.2f,   0.3f,   2.9f, -101.0f,  36.6f,   0.0f);
+            //frame = CFrame::fromXYZYPRDegrees(52.2703, 90.3336, -28.0108, 115.046, -61.0367, -3.71807 ); 
+            nearPlaneZLimit = -30; 
+            producesDirectIllumination = true; 
+            producesIndirectIllumination = true; 
+            shadowMapBias = 0.02; 
+            shadowMapSize = Vector2int16(2048, 2048 ); 
+            spotHalfAngleDegrees = 45; 
+            spotSquare = true; 
+            type = "SPOT"; 
+        }; 
+
+        building0 = VisibleEntity {
+            model = "buildingModel0";
+            frame = CFrame::fromXYZYPRDegrees(0, 0, 0, 0.0, 0.0, 0.0 );
+        };
+
+    };
+   name = "scene/buildingTest"
+};

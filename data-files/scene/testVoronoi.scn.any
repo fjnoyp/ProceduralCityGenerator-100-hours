@@ -1,0 +1,2116 @@
+{
+    models = {
+
+        buildingModel0 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building0.obj"; 
+        };
+
+        buildingModel1 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building1.obj"; 
+        };
+
+        buildingModel2 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building2.obj"; 
+        };
+
+        buildingModel3 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building3.obj"; 
+        };
+
+        buildingModel4 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building4.obj"; 
+        };
+
+        buildingModel5 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building5.obj"; 
+        };
+
+        buildingModel6 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building6.obj"; 
+        };
+
+        buildingModel7 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building7.obj"; 
+        };
+
+        buildingModel8 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building8.obj"; 
+        };
+
+        buildingModel9 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building9.obj"; 
+        };
+
+        buildingModel10 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building10.obj"; 
+        };
+
+        buildingModel11 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building11.obj"; 
+        };
+
+        buildingModel12 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building12.obj"; 
+        };
+
+        buildingModel13 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building13.obj"; 
+        };
+
+        buildingModel14 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building14.obj"; 
+        };
+
+        buildingModel15 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building15.obj"; 
+        };
+
+        buildingModel16 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building16.obj"; 
+        };
+
+        buildingModel17 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building17.obj"; 
+        };
+
+        buildingModel18 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building18.obj"; 
+        };
+
+        buildingModel19 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building19.obj"; 
+        };
+
+        buildingModel20 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building20.obj"; 
+        };
+
+        buildingModel21 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building21.obj"; 
+        };
+
+        buildingModel22 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building22.obj"; 
+        };
+
+        buildingModel23 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building23.obj"; 
+        };
+
+        buildingModel24 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building24.obj"; 
+        };
+
+        buildingModel25 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building25.obj"; 
+        };
+
+        buildingModel26 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building26.obj"; 
+        };
+
+        buildingModel27 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building27.obj"; 
+        };
+
+        buildingModel28 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building28.obj"; 
+        };
+
+        buildingModel29 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building29.obj"; 
+        };
+
+        buildingModel30 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building30.obj"; 
+        };
+
+        buildingModel31 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building31.obj"; 
+        };
+
+        buildingModel32 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building32.obj"; 
+        };
+
+        buildingModel33 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building33.obj"; 
+        };
+
+        buildingModel34 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building34.obj"; 
+        };
+
+        buildingModel35 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building35.obj"; 
+        };
+
+        buildingModel36 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building36.obj"; 
+        };
+
+        buildingModel37 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building37.obj"; 
+        };
+
+        buildingModel38 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building38.obj"; 
+        };
+
+        buildingModel39 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building39.obj"; 
+        };
+
+        buildingModel40 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building40.obj"; 
+        };
+
+        buildingModel41 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building41.obj"; 
+        };
+
+        buildingModel42 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building42.obj"; 
+        };
+
+        buildingModel43 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building43.obj"; 
+        };
+
+        buildingModel44 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building44.obj"; 
+        };
+
+        buildingModel45 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building45.obj"; 
+        };
+
+        buildingModel46 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building46.obj"; 
+        };
+
+        buildingModel47 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building47.obj"; 
+        };
+
+        buildingModel48 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building48.obj"; 
+        };
+
+        buildingModel49 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building49.obj"; 
+        };
+
+        buildingModel50 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building50.obj"; 
+        };
+
+        buildingModel51 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building51.obj"; 
+        };
+
+        buildingModel52 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building52.obj"; 
+        };
+
+        buildingModel53 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building53.obj"; 
+        };
+
+        buildingModel54 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building54.obj"; 
+        };
+
+        buildingModel55 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building55.obj"; 
+        };
+
+        buildingModel56 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building56.obj"; 
+        };
+
+        buildingModel57 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building57.obj"; 
+        };
+
+        buildingModel58 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building58.obj"; 
+        };
+
+        buildingModel59 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building59.obj"; 
+        };
+
+        buildingModel60 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building60.obj"; 
+        };
+
+        buildingModel61 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building61.obj"; 
+        };
+
+        buildingModel62 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building62.obj"; 
+        };
+
+        buildingModel63 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building63.obj"; 
+        };
+
+        buildingModel64 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building64.obj"; 
+        };
+
+        buildingModel65 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building65.obj"; 
+        };
+
+        buildingModel66 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building66.obj"; 
+        };
+
+        buildingModel67 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building67.obj"; 
+        };
+
+        buildingModel68 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building68.obj"; 
+        };
+
+        buildingModel69 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building69.obj"; 
+        };
+
+        buildingModel70 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building70.obj"; 
+        };
+
+        buildingModel71 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building71.obj"; 
+        };
+
+        buildingModel72 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building72.obj"; 
+        };
+
+        buildingModel73 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building73.obj"; 
+        };
+
+        buildingModel74 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building74.obj"; 
+        };
+
+        buildingModel75 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building75.obj"; 
+        };
+
+        buildingModel76 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building76.obj"; 
+        };
+
+        buildingModel77 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building77.obj"; 
+        };
+
+        buildingModel78 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building78.obj"; 
+        };
+
+        buildingModel79 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building79.obj"; 
+        };
+
+        buildingModel80 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building80.obj"; 
+        };
+
+        buildingModel81 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building81.obj"; 
+        };
+
+        buildingModel82 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building82.obj"; 
+        };
+
+        buildingModel83 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building83.obj"; 
+        };
+
+        buildingModel84 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building84.obj"; 
+        };
+
+        buildingModel85 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building85.obj"; 
+        };
+
+        buildingModel86 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building86.obj"; 
+        };
+
+        buildingModel87 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building87.obj"; 
+        };
+
+        buildingModel88 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building88.obj"; 
+        };
+
+        buildingModel89 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building89.obj"; 
+        };
+
+        buildingModel90 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building90.obj"; 
+        };
+
+        buildingModel91 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building91.obj"; 
+        };
+
+        buildingModel92 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building92.obj"; 
+        };
+
+        buildingModel93 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building93.obj"; 
+        };
+
+        buildingModel94 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building94.obj"; 
+        };
+
+        buildingModel95 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building95.obj"; 
+        };
+
+        buildingModel96 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building96.obj"; 
+        };
+
+        buildingModel97 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building97.obj"; 
+        };
+
+        buildingModel98 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building98.obj"; 
+        };
+
+        buildingModel99 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building99.obj"; 
+        };
+
+        buildingModel100 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building100.obj"; 
+        };
+
+        buildingModel101 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building101.obj"; 
+        };
+
+        buildingModel102 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building102.obj"; 
+        };
+
+        buildingModel103 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building103.obj"; 
+        };
+
+        buildingModel104 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building104.obj"; 
+        };
+
+        buildingModel105 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building105.obj"; 
+        };
+
+        buildingModel106 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building106.obj"; 
+        };
+
+        buildingModel107 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building107.obj"; 
+        };
+
+        buildingModel108 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building108.obj"; 
+        };
+
+        buildingModel109 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building109.obj"; 
+        };
+
+        buildingModel110 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building110.obj"; 
+        };
+
+        buildingModel111 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building111.obj"; 
+        };
+
+        buildingModel112 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building112.obj"; 
+        };
+
+        buildingModel113 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building113.obj"; 
+        };
+
+        buildingModel114 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building114.obj"; 
+        };
+
+        buildingModel115 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building115.obj"; 
+        };
+
+        buildingModel116 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building116.obj"; 
+        };
+
+        buildingModel117 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building117.obj"; 
+        };
+
+        buildingModel118 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building118.obj"; 
+        };
+
+        buildingModel119 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building119.obj"; 
+        };
+
+        buildingModel120 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building120.obj"; 
+        };
+
+        buildingModel121 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building121.obj"; 
+        };
+
+        buildingModel122 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building122.obj"; 
+        };
+
+        buildingModel123 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building123.obj"; 
+        };
+
+        buildingModel124 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building124.obj"; 
+        };
+
+        buildingModel125 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building125.obj"; 
+        };
+
+        buildingModel126 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building126.obj"; 
+        };
+
+        buildingModel127 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building127.obj"; 
+        };
+
+        buildingModel128 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building128.obj"; 
+        };
+
+        buildingModel129 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building129.obj"; 
+        };
+
+        buildingModel130 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building130.obj"; 
+        };
+
+        buildingModel131 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building131.obj"; 
+        };
+
+        buildingModel132 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building132.obj"; 
+        };
+
+        buildingModel133 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building133.obj"; 
+        };
+
+        buildingModel134 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building134.obj"; 
+        };
+
+        buildingModel135 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building135.obj"; 
+        };
+
+        buildingModel136 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building136.obj"; 
+        };
+
+        buildingModel137 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building137.obj"; 
+        };
+
+        buildingModel138 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building138.obj"; 
+        };
+
+        buildingModel139 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building139.obj"; 
+        };
+
+        buildingModel140 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building140.obj"; 
+        };
+
+        buildingModel141 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building141.obj"; 
+        };
+
+        buildingModel142 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building142.obj"; 
+        };
+
+        buildingModel143 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building143.obj"; 
+        };
+
+        buildingModel144 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building144.obj"; 
+        };
+
+        buildingModel145 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building145.obj"; 
+        };
+
+        buildingModel146 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building146.obj"; 
+        };
+
+        buildingModel147 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building147.obj"; 
+        };
+
+        buildingModel148 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building148.obj"; 
+        };
+
+        buildingModel149 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building149.obj"; 
+        };
+
+        buildingModel150 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building150.obj"; 
+        };
+
+        buildingModel151 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building151.obj"; 
+        };
+
+        buildingModel152 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building152.obj"; 
+        };
+
+        buildingModel153 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building153.obj"; 
+        };
+
+        buildingModel154 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building154.obj"; 
+        };
+
+        buildingModel155 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building155.obj"; 
+        };
+
+        buildingModel156 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building156.obj"; 
+        };
+
+        buildingModel157 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building157.obj"; 
+        };
+
+        buildingModel158 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building158.obj"; 
+        };
+
+        buildingModel159 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building159.obj"; 
+        };
+
+        buildingModel160 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building160.obj"; 
+        };
+
+        buildingModel161 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building161.obj"; 
+        };
+
+        buildingModel162 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building162.obj"; 
+        };
+
+        buildingModel163 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building163.obj"; 
+        };
+
+        buildingModel164 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building164.obj"; 
+        };
+
+        buildingModel165 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building165.obj"; 
+        };
+
+        buildingModel166 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building166.obj"; 
+        };
+
+        buildingModel167 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building167.obj"; 
+        };
+
+        buildingModel168 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building168.obj"; 
+        };
+
+        buildingModel169 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building169.obj"; 
+        };
+
+        buildingModel170 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building170.obj"; 
+        };
+
+        buildingModel171 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building171.obj"; 
+        };
+
+        buildingModel172 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building172.obj"; 
+        };
+
+        buildingModel173 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building173.obj"; 
+        };
+
+        buildingModel174 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building174.obj"; 
+        };
+
+        buildingModel175 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building175.obj"; 
+        };
+
+        buildingModel176 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building176.obj"; 
+        };
+
+        buildingModel177 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building177.obj"; 
+        };
+
+        buildingModel178 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building178.obj"; 
+        };
+
+        buildingModel179 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building179.obj"; 
+        };
+
+        buildingModel180 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building180.obj"; 
+        };
+
+        buildingModel181 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building181.obj"; 
+        };
+
+        buildingModel182 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building182.obj"; 
+        };
+
+        buildingModel183 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building183.obj"; 
+        };
+
+        buildingModel184 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building184.obj"; 
+        };
+
+        buildingModel185 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building185.obj"; 
+        };
+
+        buildingModel186 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building186.obj"; 
+        };
+
+        buildingModel187 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building187.obj"; 
+        };
+
+        buildingModel188 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building188.obj"; 
+        };
+
+        buildingModel189 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building189.obj"; 
+        };
+
+        buildingModel190 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building190.obj"; 
+        };
+
+        buildingModel191 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building191.obj"; 
+        };
+
+        buildingModel192 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building192.obj"; 
+        };
+
+        buildingModel193 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building193.obj"; 
+        };
+
+        buildingModel194 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building194.obj"; 
+        };
+
+        buildingModel195 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building195.obj"; 
+        };
+
+        buildingModel196 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building196.obj"; 
+        };
+
+        buildingModel197 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building197.obj"; 
+        };
+
+        buildingModel198 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building198.obj"; 
+        };
+
+        buildingModel199 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building199.obj"; 
+        };
+
+        buildingModel200 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building200.obj"; 
+        };
+
+        buildingModel201 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building201.obj"; 
+        };
+
+        buildingModel202 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building202.obj"; 
+        };
+
+        buildingModel203 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building203.obj"; 
+        };
+
+        buildingModel204 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building204.obj"; 
+        };
+
+        buildingModel205 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building205.obj"; 
+        };
+
+        buildingModel206 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building206.obj"; 
+        };
+
+        buildingModel207 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building207.obj"; 
+        };
+
+        buildingModel208 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building208.obj"; 
+        };
+
+        buildingModel209 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building209.obj"; 
+        };
+
+        buildingModel210 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building210.obj"; 
+        };
+
+        buildingModel211 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building211.obj"; 
+        };
+
+        buildingModel212 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building212.obj"; 
+        };
+
+        buildingModel213 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building213.obj"; 
+        };
+
+        buildingModel214 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building214.obj"; 
+        };
+
+        buildingModel215 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building215.obj"; 
+        };
+
+        buildingModel216 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building216.obj"; 
+        };
+
+        buildingModel217 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building217.obj"; 
+        };
+
+        buildingModel218 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building218.obj"; 
+        };
+
+        buildingModel219 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building219.obj"; 
+        };
+
+        buildingModel220 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building220.obj"; 
+        };
+
+        buildingModel221 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building221.obj"; 
+        };
+
+        buildingModel222 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building222.obj"; 
+        };
+
+        buildingModel223 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building223.obj"; 
+        };
+
+        buildingModel224 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building224.obj"; 
+        };
+
+        buildingModel225 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building225.obj"; 
+        };
+
+        buildingModel226 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building226.obj"; 
+        };
+
+        buildingModel227 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building227.obj"; 
+        };
+
+        buildingModel228 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building228.obj"; 
+        };
+
+        buildingModel229 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building229.obj"; 
+        };
+
+        buildingModel230 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building230.obj"; 
+        };
+
+        buildingModel231 = ArticulatedModel::Specification {
+            filename =  "scene/testVoronoi/building231.obj"; 
+        };
+
+   };
+
+     entities = {
+
+        camera = Camera {
+
+            frame = CFrame::fromXYZYPRDegrees(13.8, 17.2, -22.5, 176.7, -8.4 );
+        };
+
+        building0 = VisibleEntity {
+            model = "buildingModel0";
+            frame = CFrame::fromXYZYPRDegrees(129.0, 0.0, 36.0, 0, 0.0, 0.0 );
+        };
+
+        building1 = VisibleEntity {
+            model = "buildingModel1";
+            frame = CFrame::fromXYZYPRDegrees(135.4, 0.0, 36.8, 43, 0.0, 0.0 );
+        };
+
+        building2 = VisibleEntity {
+            model = "buildingModel2";
+            frame = CFrame::fromXYZYPRDegrees(138.0, 0.0, 42.0, 0, 0.0, 0.0 );
+        };
+
+        building3 = VisibleEntity {
+            model = "buildingModel3";
+            frame = CFrame::fromXYZYPRDegrees(138.0, 0.0, 45.0, 0, 0.0, 0.0 );
+        };
+
+        building4 = VisibleEntity {
+            model = "buildingModel4";
+            frame = CFrame::fromXYZYPRDegrees(132.0, 0.0, 48.0, 0, 0.0, 0.0 );
+        };
+
+        building5 = VisibleEntity {
+            model = "buildingModel5";
+            frame = CFrame::fromXYZYPRDegrees(134.4, 0.0, 31.2, 0, 0.0, 0.0 );
+        };
+
+        building6 = VisibleEntity {
+            model = "buildingModel6";
+            frame = CFrame::fromXYZYPRDegrees(129.0, 0.0, 30.0, 0, 0.0, 0.0 );
+        };
+
+        building7 = VisibleEntity {
+            model = "buildingModel7";
+            frame = CFrame::fromXYZYPRDegrees(136.2, 0.0, 45.4, 36, 0.0, 0.0 );
+        };
+
+        building8 = VisibleEntity {
+            model = "buildingModel8";
+            frame = CFrame::fromXYZYPRDegrees(132.0, 0.0, 36.0, 0, 0.0, 0.0 );
+        };
+
+        building9 = VisibleEntity {
+            model = "buildingModel9";
+            frame = CFrame::fromXYZYPRDegrees(138.0, 0.0, 39.0, 0, 0.0, 0.0 );
+        };
+
+        building10 = VisibleEntity {
+            model = "buildingModel10";
+            frame = CFrame::fromXYZYPRDegrees(129.0, 0.0, 63.0, 0, 0.0, 0.0 );
+        };
+
+        building11 = VisibleEntity {
+            model = "buildingModel11";
+            frame = CFrame::fromXYZYPRDegrees(138.0, 0.0, 63.0, 0, 0.0, 0.0 );
+        };
+
+        building12 = VisibleEntity {
+            model = "buildingModel12";
+            frame = CFrame::fromXYZYPRDegrees(132.0, 0.0, 57.0, 0, 0.0, 0.0 );
+        };
+
+        building13 = VisibleEntity {
+            model = "buildingModel13";
+            frame = CFrame::fromXYZYPRDegrees(132.0, 0.0, 66.4, 79, 0.0, 0.0 );
+        };
+
+        building14 = VisibleEntity {
+            model = "buildingModel14";
+            frame = CFrame::fromXYZYPRDegrees(135.0, 0.0, 60.0, 0, 0.0, 0.0 );
+        };
+
+        building15 = VisibleEntity {
+            model = "buildingModel15";
+            frame = CFrame::fromXYZYPRDegrees(129.0, 0.0, 66.0, 0, 0.0, 0.0 );
+        };
+
+        building16 = VisibleEntity {
+            model = "buildingModel16";
+            frame = CFrame::fromXYZYPRDegrees(123.0, 0.0, 63.0, 0, 0.0, 0.0 );
+        };
+
+        building17 = VisibleEntity {
+            model = "buildingModel17";
+            frame = CFrame::fromXYZYPRDegrees(132.6, 0.0, 63.0, 0, 0.0, 0.0 );
+        };
+
+        building18 = VisibleEntity {
+            model = "buildingModel18";
+            frame = CFrame::fromXYZYPRDegrees(132.0, 0.0, 72.0, 0, 0.0, 0.0 );
+        };
+
+        building19 = VisibleEntity {
+            model = "buildingModel19";
+            frame = CFrame::fromXYZYPRDegrees(135.0, 0.0, 54.0, 0, 0.0, 0.0 );
+        };
+
+        building20 = VisibleEntity {
+            model = "buildingModel20";
+            frame = CFrame::fromXYZYPRDegrees(144.0, 0.0, 20.0, 0, 0.0, 0.0 );
+        };
+
+        building21 = VisibleEntity {
+            model = "buildingModel21";
+            frame = CFrame::fromXYZYPRDegrees(140.0, 0.0, 0.0, 0, 0.0, 0.0 );
+        };
+
+        building22 = VisibleEntity {
+            model = "buildingModel22";
+            frame = CFrame::fromXYZYPRDegrees(140.0, 0.0, 12.0, 0, 0.0, 0.0 );
+        };
+
+        building23 = VisibleEntity {
+            model = "buildingModel23";
+            frame = CFrame::fromXYZYPRDegrees(144.0, 0.0, 16.0, 0, 0.0, 0.0 );
+        };
+
+        building24 = VisibleEntity {
+            model = "buildingModel24";
+            frame = CFrame::fromXYZYPRDegrees(128.0, 0.0, 4.0, 0, 0.0, 0.0 );
+        };
+
+        building25 = VisibleEntity {
+            model = "buildingModel25";
+            frame = CFrame::fromXYZYPRDegrees(124.0, 0.0, 24.0, 0, 0.0, 0.0 );
+        };
+
+        building26 = VisibleEntity {
+            model = "buildingModel26";
+            frame = CFrame::fromXYZYPRDegrees(136.0, 0.0, 20.0, 0, 0.0, 0.0 );
+        };
+
+        building27 = VisibleEntity {
+            model = "buildingModel27";
+            frame = CFrame::fromXYZYPRDegrees(128.0, 0.0, 24.0, 0, 0.0, 0.0 );
+        };
+
+        building28 = VisibleEntity {
+            model = "buildingModel28";
+            frame = CFrame::fromXYZYPRDegrees(129.2, 0.0, 7.6, 0, 0.0, 0.0 );
+        };
+
+        building29 = VisibleEntity {
+            model = "buildingModel29";
+            frame = CFrame::fromXYZYPRDegrees(129.0, 0.0, 75.0, 0, 0.0, 0.0 );
+        };
+
+        building30 = VisibleEntity {
+            model = "buildingModel30";
+            frame = CFrame::fromXYZYPRDegrees(129.0, 0.0, 78.0, 0, 0.0, 0.0 );
+        };
+
+        building31 = VisibleEntity {
+            model = "buildingModel31";
+            frame = CFrame::fromXYZYPRDegrees(135.0, 0.0, 87.0, 0, 0.0, 0.0 );
+        };
+
+        building32 = VisibleEntity {
+            model = "buildingModel32";
+            frame = CFrame::fromXYZYPRDegrees(144.0, 0.0, 84.0, 0, 0.0, 0.0 );
+        };
+
+        building33 = VisibleEntity {
+            model = "buildingModel33";
+            frame = CFrame::fromXYZYPRDegrees(121.0, 0.0, 77.0, 12, 0.0, 0.0 );
+        };
+
+        building34 = VisibleEntity {
+            model = "buildingModel34";
+            frame = CFrame::fromXYZYPRDegrees(126.0, 0.0, 72.0, 0, 0.0, 0.0 );
+        };
+
+        building35 = VisibleEntity {
+            model = "buildingModel35";
+            frame = CFrame::fromXYZYPRDegrees(141.0, 0.0, 87.0, 0, 0.0, 0.0 );
+        };
+
+        building36 = VisibleEntity {
+            model = "buildingModel36";
+            frame = CFrame::fromXYZYPRDegrees(100.0, 0.0, 4.0, 0, 0.0, 0.0 );
+        };
+
+        building37 = VisibleEntity {
+            model = "buildingModel37";
+            frame = CFrame::fromXYZYPRDegrees(116.0, 0.0, 0.0, 0, 0.0, 0.0 );
+        };
+
+        building38 = VisibleEntity {
+            model = "buildingModel38";
+            frame = CFrame::fromXYZYPRDegrees(104.0, 0.0, 24.0, 0, 0.0, 0.0 );
+        };
+
+        building39 = VisibleEntity {
+            model = "buildingModel39";
+            frame = CFrame::fromXYZYPRDegrees(108.0, 0.0, 8.0, 0, 0.0, 0.0 );
+        };
+
+        building40 = VisibleEntity {
+            model = "buildingModel40";
+            frame = CFrame::fromXYZYPRDegrees(112.0, 0.0, 4.0, 0, 0.0, 0.0 );
+        };
+
+        building41 = VisibleEntity {
+            model = "buildingModel41";
+            frame = CFrame::fromXYZYPRDegrees(107.6, 0.0, 11.2, 63, 0.0, 0.0 );
+        };
+
+        building42 = VisibleEntity {
+            model = "buildingModel42";
+            frame = CFrame::fromXYZYPRDegrees(100.0, 0.0, 24.0, 0, 0.0, 0.0 );
+        };
+
+        building43 = VisibleEntity {
+            model = "buildingModel43";
+            frame = CFrame::fromXYZYPRDegrees(116.0, 0.0, 4.0, 0, 0.0, 0.0 );
+        };
+
+        building44 = VisibleEntity {
+            model = "buildingModel44";
+            frame = CFrame::fromXYZYPRDegrees(100.0, 0.0, 16.0, 0, 0.0, 0.0 );
+        };
+
+        building45 = VisibleEntity {
+            model = "buildingModel45";
+            frame = CFrame::fromXYZYPRDegrees(109.2, 0.0, 86.8, 0, 0.0, 0.0 );
+        };
+
+        building46 = VisibleEntity {
+            model = "buildingModel46";
+            frame = CFrame::fromXYZYPRDegrees(106.4, 0.0, 75.6, 0, 0.0, 0.0 );
+        };
+
+        building47 = VisibleEntity {
+            model = "buildingModel47";
+            frame = CFrame::fromXYZYPRDegrees(114.8, 0.0, 84.0, 0, 0.0, 0.0 );
+        };
+
+        building48 = VisibleEntity {
+            model = "buildingModel48";
+            frame = CFrame::fromXYZYPRDegrees(106.4, 0.0, 84.0, 0, 0.0, 0.0 );
+        };
+
+        building49 = VisibleEntity {
+            model = "buildingModel49";
+            frame = CFrame::fromXYZYPRDegrees(114.8, 0.0, 86.8, 0, 0.0, 0.0 );
+        };
+
+        building50 = VisibleEntity {
+            model = "buildingModel50";
+            frame = CFrame::fromXYZYPRDegrees(117.6, 0.0, 78.4, 0, 0.0, 0.0 );
+        };
+
+        building51 = VisibleEntity {
+            model = "buildingModel51";
+            frame = CFrame::fromXYZYPRDegrees(114.8, 0.0, 75.6, 0, 0.0, 0.0 );
+        };
+
+        building52 = VisibleEntity {
+            model = "buildingModel52";
+            frame = CFrame::fromXYZYPRDegrees(118.6, 0.0, 75.2, 48, 0.0, 0.0 );
+        };
+
+        building53 = VisibleEntity {
+            model = "buildingModel53";
+            frame = CFrame::fromXYZYPRDegrees(106.4, 0.0, 78.4, 0, 0.0, 0.0 );
+        };
+
+        building54 = VisibleEntity {
+            model = "buildingModel54";
+            frame = CFrame::fromXYZYPRDegrees(103.2, 0.0, 31.6, 14, 0.0, 0.0 );
+        };
+
+        building55 = VisibleEntity {
+            model = "buildingModel55";
+            frame = CFrame::fromXYZYPRDegrees(102.0, 0.0, 45.0, 0, 0.0, 0.0 );
+        };
+
+        building56 = VisibleEntity {
+            model = "buildingModel56";
+            frame = CFrame::fromXYZYPRDegrees(111.0, 0.0, 30.0, 0, 0.0, 0.0 );
+        };
+
+        building57 = VisibleEntity {
+            model = "buildingModel57";
+            frame = CFrame::fromXYZYPRDegrees(108.0, 0.0, 33.0, 0, 0.0, 0.0 );
+        };
+
+        building58 = VisibleEntity {
+            model = "buildingModel58";
+            frame = CFrame::fromXYZYPRDegrees(102.0, 0.0, 39.0, 0, 0.0, 0.0 );
+        };
+
+        building59 = VisibleEntity {
+            model = "buildingModel59";
+            frame = CFrame::fromXYZYPRDegrees(116.2, 0.0, 37.4, 2, 0.0, 0.0 );
+        };
+
+        building60 = VisibleEntity {
+            model = "buildingModel60";
+            frame = CFrame::fromXYZYPRDegrees(108.0, 0.0, 45.0, 0, 0.0, 0.0 );
+        };
+
+        building61 = VisibleEntity {
+            model = "buildingModel61";
+            frame = CFrame::fromXYZYPRDegrees(111.0, 0.0, 39.0, 0, 0.0, 0.0 );
+        };
+
+        building62 = VisibleEntity {
+            model = "buildingModel62";
+            frame = CFrame::fromXYZYPRDegrees(107.2, 0.0, 33.8, 71, 0.0, 0.0 );
+        };
+
+        building63 = VisibleEntity {
+            model = "buildingModel63";
+            frame = CFrame::fromXYZYPRDegrees(105.0, 0.0, 45.0, 0, 0.0, 0.0 );
+        };
+
+        building64 = VisibleEntity {
+            model = "buildingModel64";
+            frame = CFrame::fromXYZYPRDegrees(113.4, 0.0, 65.4, 87, 0.0, 0.0 );
+        };
+
+        building65 = VisibleEntity {
+            model = "buildingModel65";
+            frame = CFrame::fromXYZYPRDegrees(96.0, 0.0, 57.0, 0, 0.0, 0.0 );
+        };
+
+        building66 = VisibleEntity {
+            model = "buildingModel66";
+            frame = CFrame::fromXYZYPRDegrees(108.0, 0.0, 69.0, 0, 0.0, 0.0 );
+        };
+
+        building67 = VisibleEntity {
+            model = "buildingModel67";
+            frame = CFrame::fromXYZYPRDegrees(105.0, 0.0, 63.0, 0, 0.0, 0.0 );
+        };
+
+        building68 = VisibleEntity {
+            model = "buildingModel68";
+            frame = CFrame::fromXYZYPRDegrees(103.4, 0.0, 70.2, 0, 0.0, 0.0 );
+        };
+
+        building69 = VisibleEntity {
+            model = "buildingModel69";
+            frame = CFrame::fromXYZYPRDegrees(99.0, 0.0, 54.0, 0, 0.0, 0.0 );
+        };
+
+        building70 = VisibleEntity {
+            model = "buildingModel70";
+            frame = CFrame::fromXYZYPRDegrees(105.0, 0.0, 66.0, 0, 0.0, 0.0 );
+        };
+
+        building71 = VisibleEntity {
+            model = "buildingModel71";
+            frame = CFrame::fromXYZYPRDegrees(111.0, 0.0, 69.0, 0, 0.0, 0.0 );
+        };
+
+        building72 = VisibleEntity {
+            model = "buildingModel72";
+            frame = CFrame::fromXYZYPRDegrees(108.0, 0.0, 63.0, 0, 0.0, 0.0 );
+        };
+
+        building73 = VisibleEntity {
+            model = "buildingModel73";
+            frame = CFrame::fromXYZYPRDegrees(102.0, 0.0, 66.0, 0, 0.0, 0.0 );
+        };
+
+        building74 = VisibleEntity {
+            model = "buildingModel74";
+            frame = CFrame::fromXYZYPRDegrees(156.0, 0.0, 12.0, 0, 0.0, 0.0 );
+        };
+
+        building75 = VisibleEntity {
+            model = "buildingModel75";
+            frame = CFrame::fromXYZYPRDegrees(160.0, 0.0, 16.0, 0, 0.0, 0.0 );
+        };
+
+        building76 = VisibleEntity {
+            model = "buildingModel76";
+            frame = CFrame::fromXYZYPRDegrees(148.0, 0.0, 12.0, 0, 0.0, 0.0 );
+        };
+
+        building77 = VisibleEntity {
+            model = "buildingModel77";
+            frame = CFrame::fromXYZYPRDegrees(148.0, 0.0, 8.0, 0, 0.0, 0.0 );
+        };
+
+        building78 = VisibleEntity {
+            model = "buildingModel78";
+            frame = CFrame::fromXYZYPRDegrees(156.0, 0.0, 24.0, 0, 0.0, 0.0 );
+        };
+
+        building79 = VisibleEntity {
+            model = "buildingModel79";
+            frame = CFrame::fromXYZYPRDegrees(156.0, 0.0, 36.0, 0, 0.0, 0.0 );
+        };
+
+        building80 = VisibleEntity {
+            model = "buildingModel80";
+            frame = CFrame::fromXYZYPRDegrees(144.0, 0.0, 24.0, 0, 0.0, 0.0 );
+        };
+
+        building81 = VisibleEntity {
+            model = "buildingModel81";
+            frame = CFrame::fromXYZYPRDegrees(149.8, 0.0, 33.2, 84, 0.0, 0.0 );
+        };
+
+        building82 = VisibleEntity {
+            model = "buildingModel82";
+            frame = CFrame::fromXYZYPRDegrees(152.0, 0.0, 44.0, 0, 0.0, 0.0 );
+        };
+
+        building83 = VisibleEntity {
+            model = "buildingModel83";
+            frame = CFrame::fromXYZYPRDegrees(159.2, 0.0, 47.6, 86, 0.0, 0.0 );
+        };
+
+        building84 = VisibleEntity {
+            model = "buildingModel84";
+            frame = CFrame::fromXYZYPRDegrees(148.0, 0.0, 48.0, 0, 0.0, 0.0 );
+        };
+
+        building85 = VisibleEntity {
+            model = "buildingModel85";
+            frame = CFrame::fromXYZYPRDegrees(144.0, 0.0, 44.0, 0, 0.0, 0.0 );
+        };
+
+        building86 = VisibleEntity {
+            model = "buildingModel86";
+            frame = CFrame::fromXYZYPRDegrees(156.0, 0.0, 56.0, 0, 0.0, 0.0 );
+        };
+
+        building87 = VisibleEntity {
+            model = "buildingModel87";
+            frame = CFrame::fromXYZYPRDegrees(160.0, 0.0, 60.0, 0, 0.0, 0.0 );
+        };
+
+        building88 = VisibleEntity {
+            model = "buildingModel88";
+            frame = CFrame::fromXYZYPRDegrees(160.0, 0.0, 56.0, 0, 0.0, 0.0 );
+        };
+
+        building89 = VisibleEntity {
+            model = "buildingModel89";
+            frame = CFrame::fromXYZYPRDegrees(148.0, 0.0, 56.0, 0, 0.0, 0.0 );
+        };
+
+        building90 = VisibleEntity {
+            model = "buildingModel90";
+            frame = CFrame::fromXYZYPRDegrees(144.0, 0.0, 60.0, 0, 0.0, 0.0 );
+        };
+
+        building91 = VisibleEntity {
+            model = "buildingModel91";
+            frame = CFrame::fromXYZYPRDegrees(143.0, 0.0, 56.4, 0, 0.0, 0.0 );
+        };
+
+        building92 = VisibleEntity {
+            model = "buildingModel92";
+            frame = CFrame::fromXYZYPRDegrees(156.0, 0.0, 72.0, 0, 0.0, 0.0 );
+        };
+
+        building93 = VisibleEntity {
+            model = "buildingModel93";
+            frame = CFrame::fromXYZYPRDegrees(156.0, 0.0, 64.0, 0, 0.0, 0.0 );
+        };
+
+        building94 = VisibleEntity {
+            model = "buildingModel94";
+            frame = CFrame::fromXYZYPRDegrees(156.0, 0.0, 68.0, 0, 0.0, 0.0 );
+        };
+
+        building95 = VisibleEntity {
+            model = "buildingModel95";
+            frame = CFrame::fromXYZYPRDegrees(148.0, 0.0, 76.0, 0, 0.0, 0.0 );
+        };
+
+        building96 = VisibleEntity {
+            model = "buildingModel96";
+            frame = CFrame::fromXYZYPRDegrees(148.0, 0.0, 68.0, 0, 0.0, 0.0 );
+        };
+
+        building97 = VisibleEntity {
+            model = "buildingModel97";
+            frame = CFrame::fromXYZYPRDegrees(148.0, 0.0, 64.0, 0, 0.0, 0.0 );
+        };
+
+        building98 = VisibleEntity {
+            model = "buildingModel98";
+            frame = CFrame::fromXYZYPRDegrees(160.0, 0.0, 84.0, 0, 0.0, 0.0 );
+        };
+
+        building99 = VisibleEntity {
+            model = "buildingModel99";
+            frame = CFrame::fromXYZYPRDegrees(156.0, 0.0, 84.0, 0, 0.0, 0.0 );
+        };
+
+        building100 = VisibleEntity {
+            model = "buildingModel100";
+            frame = CFrame::fromXYZYPRDegrees(155.0, 0.0, 85.6, 0, 0.0, 0.0 );
+        };
+
+        building101 = VisibleEntity {
+            model = "buildingModel101";
+            frame = CFrame::fromXYZYPRDegrees(148.0, 0.0, 92.0, 0, 0.0, 0.0 );
+        };
+
+        building102 = VisibleEntity {
+            model = "buildingModel102";
+            frame = CFrame::fromXYZYPRDegrees(149.2, 0.0, 88.4, 15, 0.0, 0.0 );
+        };
+
+        building103 = VisibleEntity {
+            model = "buildingModel103";
+            frame = CFrame::fromXYZYPRDegrees(148.0, 0.0, 84.0, 0, 0.0, 0.0 );
+        };
+
+        building104 = VisibleEntity {
+            model = "buildingModel104";
+            frame = CFrame::fromXYZYPRDegrees(75.0, 0.0, 54.0, 0, 0.0, 0.0 );
+        };
+
+        building105 = VisibleEntity {
+            model = "buildingModel105";
+            frame = CFrame::fromXYZYPRDegrees(72.0, 0.0, 54.0, 0, 0.0, 0.0 );
+        };
+
+        building106 = VisibleEntity {
+            model = "buildingModel106";
+            frame = CFrame::fromXYZYPRDegrees(66.0, 0.0, 57.0, 0, 0.0, 0.0 );
+        };
+
+        building107 = VisibleEntity {
+            model = "buildingModel107";
+            frame = CFrame::fromXYZYPRDegrees(66.0, 0.0, 54.0, 0, 0.0, 0.0 );
+        };
+
+        building108 = VisibleEntity {
+            model = "buildingModel108";
+            frame = CFrame::fromXYZYPRDegrees(72.0, 0.0, 48.0, 0, 0.0, 0.0 );
+        };
+
+        building109 = VisibleEntity {
+            model = "buildingModel109";
+            frame = CFrame::fromXYZYPRDegrees(69.0, 0.0, 54.0, 0, 0.0, 0.0 );
+        };
+
+        building110 = VisibleEntity {
+            model = "buildingModel110";
+            frame = CFrame::fromXYZYPRDegrees(75.0, 0.0, 51.0, 0, 0.0, 0.0 );
+        };
+
+        building111 = VisibleEntity {
+            model = "buildingModel111";
+            frame = CFrame::fromXYZYPRDegrees(87.0, 0.0, 42.0, 0, 0.0, 0.0 );
+        };
+
+        building112 = VisibleEntity {
+            model = "buildingModel112";
+            frame = CFrame::fromXYZYPRDegrees(93.0, 0.0, 42.0, 0, 0.0, 0.0 );
+        };
+
+        building113 = VisibleEntity {
+            model = "buildingModel113";
+            frame = CFrame::fromXYZYPRDegrees(87.0, 0.0, 51.0, 0, 0.0, 0.0 );
+        };
+
+        building114 = VisibleEntity {
+            model = "buildingModel114";
+            frame = CFrame::fromXYZYPRDegrees(89.2, 0.0, 42.6, 75, 0.0, 0.0 );
+        };
+
+        building115 = VisibleEntity {
+            model = "buildingModel115";
+            frame = CFrame::fromXYZYPRDegrees(84.0, 0.0, 48.0, 0, 0.0, 0.0 );
+        };
+
+        building116 = VisibleEntity {
+            model = "buildingModel116";
+            frame = CFrame::fromXYZYPRDegrees(84.0, 0.0, 57.0, 0, 0.0, 0.0 );
+        };
+
+        building117 = VisibleEntity {
+            model = "buildingModel117";
+            frame = CFrame::fromXYZYPRDegrees(93.0, 0.0, 45.0, 0, 0.0, 0.0 );
+        };
+
+        building118 = VisibleEntity {
+            model = "buildingModel118";
+            frame = CFrame::fromXYZYPRDegrees(78.0, 0.0, 30.0, 0, 0.0, 0.0 );
+        };
+
+        building119 = VisibleEntity {
+            model = "buildingModel119";
+            frame = CFrame::fromXYZYPRDegrees(75.4, 0.0, 34.0, 66, 0.0, 0.0 );
+        };
+
+        building120 = VisibleEntity {
+            model = "buildingModel120";
+            frame = CFrame::fromXYZYPRDegrees(78.6, 0.0, 14.0, 4, 0.0, 0.0 );
+        };
+
+        building121 = VisibleEntity {
+            model = "buildingModel121";
+            frame = CFrame::fromXYZYPRDegrees(75.0, 0.0, 27.0, 0, 0.0, 0.0 );
+        };
+
+        building122 = VisibleEntity {
+            model = "buildingModel122";
+            frame = CFrame::fromXYZYPRDegrees(69.0, 0.0, 36.0, 0, 0.0, 0.0 );
+        };
+
+        building123 = VisibleEntity {
+            model = "buildingModel123";
+            frame = CFrame::fromXYZYPRDegrees(78.8, 0.0, 30.6, 19, 0.0, 0.0 );
+        };
+
+        building124 = VisibleEntity {
+            model = "buildingModel124";
+            frame = CFrame::fromXYZYPRDegrees(75.0, 0.0, 18.0, 0, 0.0, 0.0 );
+        };
+
+        building125 = VisibleEntity {
+            model = "buildingModel125";
+            frame = CFrame::fromXYZYPRDegrees(82.8, 0.0, 37.2, 48, 0.0, 0.0 );
+        };
+
+        building126 = VisibleEntity {
+            model = "buildingModel126";
+            frame = CFrame::fromXYZYPRDegrees(88.6, 0.0, 9.4, 31, 0.0, 0.0 );
+        };
+
+        building127 = VisibleEntity {
+            model = "buildingModel127";
+            frame = CFrame::fromXYZYPRDegrees(90.0, 0.0, 36.0, 0, 0.0, 0.0 );
+        };
+
+        building128 = VisibleEntity {
+            model = "buildingModel128";
+            frame = CFrame::fromXYZYPRDegrees(90.0, 0.0, 15.0, 0, 0.0, 0.0 );
+        };
+
+        building129 = VisibleEntity {
+            model = "buildingModel129";
+            frame = CFrame::fromXYZYPRDegrees(96.8, 0.0, 33.2, 67, 0.0, 0.0 );
+        };
+
+        building130 = VisibleEntity {
+            model = "buildingModel130";
+            frame = CFrame::fromXYZYPRDegrees(91.0, 0.0, 0.0, 0, 0.0, 0.0 );
+        };
+
+        building131 = VisibleEntity {
+            model = "buildingModel131";
+            frame = CFrame::fromXYZYPRDegrees(96.0, 0.0, 36.0, 0, 0.0, 0.0 );
+        };
+
+        building132 = VisibleEntity {
+            model = "buildingModel132";
+            frame = CFrame::fromXYZYPRDegrees(54.0, 0.0, 75.0, 0, 0.0, 0.0 );
+        };
+
+        building133 = VisibleEntity {
+            model = "buildingModel133";
+            frame = CFrame::fromXYZYPRDegrees(61.8, 0.0, 71.2, 1, 0.0, 0.0 );
+        };
+
+        building134 = VisibleEntity {
+            model = "buildingModel134";
+            frame = CFrame::fromXYZYPRDegrees(71.2, 0.0, 68.0, 2, 0.0, 0.0 );
+        };
+
+        building135 = VisibleEntity {
+            model = "buildingModel135";
+            frame = CFrame::fromXYZYPRDegrees(66.0, 0.0, 72.0, 0, 0.0, 0.0 );
+        };
+
+        building136 = VisibleEntity {
+            model = "buildingModel136";
+            frame = CFrame::fromXYZYPRDegrees(69.0, 0.0, 75.0, 0, 0.0, 0.0 );
+        };
+
+        building137 = VisibleEntity {
+            model = "buildingModel137";
+            frame = CFrame::fromXYZYPRDegrees(75.0, 0.0, 72.0, 0, 0.0, 0.0 );
+        };
+
+        building138 = VisibleEntity {
+            model = "buildingModel138";
+            frame = CFrame::fromXYZYPRDegrees(69.0, 0.0, 66.0, 0, 0.0, 0.0 );
+        };
+
+        building139 = VisibleEntity {
+            model = "buildingModel139";
+            frame = CFrame::fromXYZYPRDegrees(69.0, 0.0, 84.0, 0, 0.0, 0.0 );
+        };
+
+        building140 = VisibleEntity {
+            model = "buildingModel140";
+            frame = CFrame::fromXYZYPRDegrees(60.0, 0.0, 84.0, 0, 0.0, 0.0 );
+        };
+
+        building141 = VisibleEntity {
+            model = "buildingModel141";
+            frame = CFrame::fromXYZYPRDegrees(72.0, 0.0, 84.0, 0, 0.0, 0.0 );
+        };
+
+        building142 = VisibleEntity {
+            model = "buildingModel142";
+            frame = CFrame::fromXYZYPRDegrees(72.0, 0.0, 96.0, 0, 0.0, 0.0 );
+        };
+
+        building143 = VisibleEntity {
+            model = "buildingModel143";
+            frame = CFrame::fromXYZYPRDegrees(73.6, 0.0, 86.8, 28, 0.0, 0.0 );
+        };
+
+        building144 = VisibleEntity {
+            model = "buildingModel144";
+            frame = CFrame::fromXYZYPRDegrees(75.6, 0.0, 96.2, 11, 0.0, 0.0 );
+        };
+
+        building145 = VisibleEntity {
+            model = "buildingModel145";
+            frame = CFrame::fromXYZYPRDegrees(78.0, 0.0, 90.0, 0, 0.0, 0.0 );
+        };
+
+        building146 = VisibleEntity {
+            model = "buildingModel146";
+            frame = CFrame::fromXYZYPRDegrees(95.0, 0.0, 66.6, 0, 0.0, 0.0 );
+        };
+
+        building147 = VisibleEntity {
+            model = "buildingModel147";
+            frame = CFrame::fromXYZYPRDegrees(84.0, 0.0, 66.0, 0, 0.0, 0.0 );
+        };
+
+        building148 = VisibleEntity {
+            model = "buildingModel148";
+            frame = CFrame::fromXYZYPRDegrees(93.0, 0.0, 72.0, 0, 0.0, 0.0 );
+        };
+
+        building149 = VisibleEntity {
+            model = "buildingModel149";
+            frame = CFrame::fromXYZYPRDegrees(87.0, 0.0, 72.0, 0, 0.0, 0.0 );
+        };
+
+        building150 = VisibleEntity {
+            model = "buildingModel150";
+            frame = CFrame::fromXYZYPRDegrees(83.2, 0.0, 74.6, 72, 0.0, 0.0 );
+        };
+
+        building151 = VisibleEntity {
+            model = "buildingModel151";
+            frame = CFrame::fromXYZYPRDegrees(102.0, 0.0, 75.0, 0, 0.0, 0.0 );
+        };
+
+        building152 = VisibleEntity {
+            model = "buildingModel152";
+            frame = CFrame::fromXYZYPRDegrees(96.0, 0.0, 78.0, 0, 0.0, 0.0 );
+        };
+
+        building153 = VisibleEntity {
+            model = "buildingModel153";
+            frame = CFrame::fromXYZYPRDegrees(90.0, 0.0, 84.0, 0, 0.0, 0.0 );
+        };
+
+        building154 = VisibleEntity {
+            model = "buildingModel154";
+            frame = CFrame::fromXYZYPRDegrees(84.0, 0.0, 105.0, 0, 0.0, 0.0 );
+        };
+
+        building155 = VisibleEntity {
+            model = "buildingModel155";
+            frame = CFrame::fromXYZYPRDegrees(93.0, 0.0, 87.0, 0, 0.0, 0.0 );
+        };
+
+        building156 = VisibleEntity {
+            model = "buildingModel156";
+            frame = CFrame::fromXYZYPRDegrees(82.2, 0.0, 88.8, 42, 0.0, 0.0 );
+        };
+
+        building157 = VisibleEntity {
+            model = "buildingModel157";
+            frame = CFrame::fromXYZYPRDegrees(93.0, 0.0, 93.0, 0, 0.0, 0.0 );
+        };
+
+        building158 = VisibleEntity {
+            model = "buildingModel158";
+            frame = CFrame::fromXYZYPRDegrees(96.0, 0.0, 93.0, 0, 0.0, 0.0 );
+        };
+
+        building159 = VisibleEntity {
+            model = "buildingModel159";
+            frame = CFrame::fromXYZYPRDegrees(87.0, 0.0, 93.0, 0, 0.0, 0.0 );
+        };
+
+        building160 = VisibleEntity {
+            model = "buildingModel160";
+            frame = CFrame::fromXYZYPRDegrees(51.0, 0.0, 33.0, 0, 0.0, 0.0 );
+        };
+
+        building161 = VisibleEntity {
+            model = "buildingModel161";
+            frame = CFrame::fromXYZYPRDegrees(51.0, 0.0, 21.0, 0, 0.0, 0.0 );
+        };
+
+        building162 = VisibleEntity {
+            model = "buildingModel162";
+            frame = CFrame::fromXYZYPRDegrees(45.0, 0.0, 36.0, 0, 0.0, 0.0 );
+        };
+
+        building163 = VisibleEntity {
+            model = "buildingModel163";
+            frame = CFrame::fromXYZYPRDegrees(48.4, 0.0, 26.0, 5, 0.0, 0.0 );
+        };
+
+        building164 = VisibleEntity {
+            model = "buildingModel164";
+            frame = CFrame::fromXYZYPRDegrees(45.0, 0.0, 15.0, 0, 0.0, 0.0 );
+        };
+
+        building165 = VisibleEntity {
+            model = "buildingModel165";
+            frame = CFrame::fromXYZYPRDegrees(48.0, 0.0, 3.0, 0, 0.0, 0.0 );
+        };
+
+        building166 = VisibleEntity {
+            model = "buildingModel166";
+            frame = CFrame::fromXYZYPRDegrees(41.2, 0.0, 21.0, 64, 0.0, 0.0 );
+        };
+
+        building167 = VisibleEntity {
+            model = "buildingModel167";
+            frame = CFrame::fromXYZYPRDegrees(54.0, 0.0, 42.0, 0, 0.0, 0.0 );
+        };
+
+        building168 = VisibleEntity {
+            model = "buildingModel168";
+            frame = CFrame::fromXYZYPRDegrees(54.0, 0.0, 48.0, 0, 0.0, 0.0 );
+        };
+
+        building169 = VisibleEntity {
+            model = "buildingModel169";
+            frame = CFrame::fromXYZYPRDegrees(57.0, 0.0, 63.0, 0, 0.0, 0.0 );
+        };
+
+        building170 = VisibleEntity {
+            model = "buildingModel170";
+            frame = CFrame::fromXYZYPRDegrees(54.0, 0.0, 66.0, 0, 0.0, 0.0 );
+        };
+
+        building171 = VisibleEntity {
+            model = "buildingModel171";
+            frame = CFrame::fromXYZYPRDegrees(60.0, 0.0, 42.0, 0, 0.0, 0.0 );
+        };
+
+        building172 = VisibleEntity {
+            model = "buildingModel172";
+            frame = CFrame::fromXYZYPRDegrees(60.2, 0.0, 46.4, 2, 0.0, 0.0 );
+        };
+
+        building173 = VisibleEntity {
+            model = "buildingModel173";
+            frame = CFrame::fromXYZYPRDegrees(60.0, 0.0, 57.0, 87, 0.0, 0.0 );
+        };
+
+        building174 = VisibleEntity {
+            model = "buildingModel174";
+            frame = CFrame::fromXYZYPRDegrees(57.0, 0.0, 6.0, 0, 0.0, 0.0 );
+        };
+
+        building175 = VisibleEntity {
+            model = "buildingModel175";
+            frame = CFrame::fromXYZYPRDegrees(57.0, 0.0, 18.0, 0, 0.0, 0.0 );
+        };
+
+        building176 = VisibleEntity {
+            model = "buildingModel176";
+            frame = CFrame::fromXYZYPRDegrees(69.0, 0.0, 24.0, 0, 0.0, 0.0 );
+        };
+
+        building177 = VisibleEntity {
+            model = "buildingModel177";
+            frame = CFrame::fromXYZYPRDegrees(63.0, 0.0, 15.0, 0, 0.0, 0.0 );
+        };
+
+        building178 = VisibleEntity {
+            model = "buildingModel178";
+            frame = CFrame::fromXYZYPRDegrees(63.0, 0.0, 36.0, 0, 0.0, 0.0 );
+        };
+
+        building179 = VisibleEntity {
+            model = "buildingModel179";
+            frame = CFrame::fromXYZYPRDegrees(62.4, 0.0, 20.6, 18, 0.0, 0.0 );
+        };
+
+        building180 = VisibleEntity {
+            model = "buildingModel180";
+            frame = CFrame::fromXYZYPRDegrees(54.0, 0.0, 3.0, 0, 0.0, 0.0 );
+        };
+
+        building181 = VisibleEntity {
+            model = "buildingModel181";
+            frame = CFrame::fromXYZYPRDegrees(44.4, 0.0, 66.2, 10, 0.0, 0.0 );
+        };
+
+        building182 = VisibleEntity {
+            model = "buildingModel182";
+            frame = CFrame::fromXYZYPRDegrees(39.0, 0.0, 51.0, 0, 0.0, 0.0 );
+        };
+
+        building183 = VisibleEntity {
+            model = "buildingModel183";
+            frame = CFrame::fromXYZYPRDegrees(41.4, 0.0, 61.2, 24, 0.0, 0.0 );
+        };
+
+        building184 = VisibleEntity {
+            model = "buildingModel184";
+            frame = CFrame::fromXYZYPRDegrees(48.0, 0.0, 57.0, 0, 0.0, 0.0 );
+        };
+
+        building185 = VisibleEntity {
+            model = "buildingModel185";
+            frame = CFrame::fromXYZYPRDegrees(42.0, 0.0, 54.0, 0, 0.0, 0.0 );
+        };
+
+        building186 = VisibleEntity {
+            model = "buildingModel186";
+            frame = CFrame::fromXYZYPRDegrees(42.2, 0.0, 54.8, 17, 0.0, 0.0 );
+        };
+
+        building187 = VisibleEntity {
+            model = "buildingModel187";
+            frame = CFrame::fromXYZYPRDegrees(39.0, 0.0, 45.0, 0, 0.0, 0.0 );
+        };
+
+        building188 = VisibleEntity {
+            model = "buildingModel188";
+            frame = CFrame::fromXYZYPRDegrees(51.0, 0.0, 105.0, 0, 0.0, 0.0 );
+        };
+
+        building189 = VisibleEntity {
+            model = "buildingModel189";
+            frame = CFrame::fromXYZYPRDegrees(48.0, 0.0, 84.0, 0, 0.0, 0.0 );
+        };
+
+        building190 = VisibleEntity {
+            model = "buildingModel190";
+            frame = CFrame::fromXYZYPRDegrees(45.2, 0.0, 108.6, 46, 0.0, 0.0 );
+        };
+
+        building191 = VisibleEntity {
+            model = "buildingModel191";
+            frame = CFrame::fromXYZYPRDegrees(51.0, 0.0, 93.0, 0, 0.0, 0.0 );
+        };
+
+        building192 = VisibleEntity {
+            model = "buildingModel192";
+            frame = CFrame::fromXYZYPRDegrees(48.0, 0.0, 99.0, 0, 0.0, 0.0 );
+        };
+
+        building193 = VisibleEntity {
+            model = "buildingModel193";
+            frame = CFrame::fromXYZYPRDegrees(48.0, 0.0, 105.0, 0, 0.0, 0.0 );
+        };
+
+        building194 = VisibleEntity {
+            model = "buildingModel194";
+            frame = CFrame::fromXYZYPRDegrees(51.0, 0.0, 87.0, 0, 0.0, 0.0 );
+        };
+
+        building195 = VisibleEntity {
+            model = "buildingModel195";
+            frame = CFrame::fromXYZYPRDegrees(72.0, 0.0, 105.0, 0, 0.0, 0.0 );
+        };
+
+        building196 = VisibleEntity {
+            model = "buildingModel196";
+            frame = CFrame::fromXYZYPRDegrees(65.4, 0.0, 110.6, 12, 0.0, 0.0 );
+        };
+
+        building197 = VisibleEntity {
+            model = "buildingModel197";
+            frame = CFrame::fromXYZYPRDegrees(73.2, 0.0, 112.0, 2, 0.0, 0.0 );
+        };
+
+        building198 = VisibleEntity {
+            model = "buildingModel198";
+            frame = CFrame::fromXYZYPRDegrees(77.6, 0.0, 111.0, 2, 0.0, 0.0 );
+        };
+
+        building199 = VisibleEntity {
+            model = "buildingModel199";
+            frame = CFrame::fromXYZYPRDegrees(64.0, 0.0, 113.2, 38, 0.0, 0.0 );
+        };
+
+        building200 = VisibleEntity {
+            model = "buildingModel200";
+            frame = CFrame::fromXYZYPRDegrees(60.0, 0.0, 105.0, 0, 0.0, 0.0 );
+        };
+
+        building201 = VisibleEntity {
+            model = "buildingModel201";
+            frame = CFrame::fromXYZYPRDegrees(57.0, 0.0, 105.0, 0, 0.0, 0.0 );
+        };
+
+        building202 = VisibleEntity {
+            model = "buildingModel202";
+            frame = CFrame::fromXYZYPRDegrees(10.6, 0.0, 20.0, 22, 0.0, 0.0 );
+        };
+
+        building203 = VisibleEntity {
+            model = "buildingModel203";
+            frame = CFrame::fromXYZYPRDegrees(27.2, 0.0, 32.0, 0, 0.0, 0.0 );
+        };
+
+        building204 = VisibleEntity {
+            model = "buildingModel204";
+            frame = CFrame::fromXYZYPRDegrees(25.6, 0.0, 11.2, 56, 0.0, 0.0 );
+        };
+
+        building205 = VisibleEntity {
+            model = "buildingModel205";
+            frame = CFrame::fromXYZYPRDegrees(30.2, 0.0, 28.4, 0, 0.0, 0.0 );
+        };
+
+        building206 = VisibleEntity {
+            model = "buildingModel206";
+            frame = CFrame::fromXYZYPRDegrees(159.6, 0.0, 100.8, 0, 0.0, 0.0 );
+        };
+
+        building207 = VisibleEntity {
+            model = "buildingModel207";
+            frame = CFrame::fromXYZYPRDegrees(151.2, 0.0, 98.0, 0, 0.0, 0.0 );
+        };
+
+        building208 = VisibleEntity {
+            model = "buildingModel208";
+            frame = CFrame::fromXYZYPRDegrees(143.6, 0.0, 95.4, 13, 0.0, 0.0 );
+        };
+
+        building209 = VisibleEntity {
+            model = "buildingModel209";
+            frame = CFrame::fromXYZYPRDegrees(120.4, 0.0, 98.0, 0, 0.0, 0.0 );
+        };
+
+        building210 = VisibleEntity {
+            model = "buildingModel210";
+            frame = CFrame::fromXYZYPRDegrees(120.4, 0.0, 95.2, 0, 0.0, 0.0 );
+        };
+
+        building211 = VisibleEntity {
+            model = "buildingModel211";
+            frame = CFrame::fromXYZYPRDegrees(137.2, 0.0, 100.8, 0, 0.0, 0.0 );
+        };
+
+        building212 = VisibleEntity {
+            model = "buildingModel212";
+            frame = CFrame::fromXYZYPRDegrees(96.0, 0.0, 117.0, 0, 0.0, 0.0 );
+        };
+
+        building213 = VisibleEntity {
+            model = "buildingModel213";
+            frame = CFrame::fromXYZYPRDegrees(114.0, 0.0, 111.0, 0, 0.0, 0.0 );
+        };
+
+        building214 = VisibleEntity {
+            model = "buildingModel214";
+            frame = CFrame::fromXYZYPRDegrees(91.2, 0.0, 118.4, 2, 0.0, 0.0 );
+        };
+
+        building215 = VisibleEntity {
+            model = "buildingModel215";
+            frame = CFrame::fromXYZYPRDegrees(102.0, 0.0, 114.0, 0, 0.0, 0.0 );
+        };
+
+        building216 = VisibleEntity {
+            model = "buildingModel216";
+            frame = CFrame::fromXYZYPRDegrees(109.8, 0.0, 115.4, 9, 0.0, 0.0 );
+        };
+
+        building217 = VisibleEntity {
+            model = "buildingModel217";
+            frame = CFrame::fromXYZYPRDegrees(124.0, 0.0, 108.8, 51, 0.0, 0.0 );
+        };
+
+        building218 = VisibleEntity {
+            model = "buildingModel218";
+            frame = CFrame::fromXYZYPRDegrees(119.6, 0.0, 109.2, 0, 0.0, 0.0 );
+        };
+
+        building219 = VisibleEntity {
+            model = "buildingModel219";
+            frame = CFrame::fromXYZYPRDegrees(123.0, 0.0, 111.0, 0, 0.0, 0.0 );
+        };
+
+        building220 = VisibleEntity {
+            model = "buildingModel220";
+            frame = CFrame::fromXYZYPRDegrees(119.4, 0.0, 104.8, 55, 0.0, 0.0 );
+        };
+
+        building221 = VisibleEntity {
+            model = "buildingModel221";
+            frame = CFrame::fromXYZYPRDegrees(108.0, 0.0, 120.0, 0, 0.0, 0.0 );
+        };
+
+        building222 = VisibleEntity {
+            model = "buildingModel222";
+            frame = CFrame::fromXYZYPRDegrees(152.4, 0.0, 106.4, 23, 0.0, 0.0 );
+        };
+
+        building223 = VisibleEntity {
+            model = "buildingModel223";
+            frame = CFrame::fromXYZYPRDegrees(144.8, 0.0, 118.0, 1, 0.0, 0.0 );
+        };
+
+        building224 = VisibleEntity {
+            model = "buildingModel224";
+            frame = CFrame::fromXYZYPRDegrees(144.0, 0.0, 114.0, 0, 0.0, 0.0 );
+        };
+
+        building225 = VisibleEntity {
+            model = "buildingModel225";
+            frame = CFrame::fromXYZYPRDegrees(140.4, 0.0, 106.0, 0, 0.0, 0.0 );
+        };
+
+        building226 = VisibleEntity {
+            model = "buildingModel226";
+            frame = CFrame::fromXYZYPRDegrees(137.2, 0.0, 115.0, 80, 0.0, 0.0 );
+        };
+
+        building227 = VisibleEntity {
+            model = "buildingModel227";
+            frame = CFrame::fromXYZYPRDegrees(156.0, 0.0, 111.0, 0, 0.0, 0.0 );
+        };
+
+        building228 = VisibleEntity {
+            model = "buildingModel228";
+            frame = CFrame::fromXYZYPRDegrees(132.0, 0.0, 105.0, 0, 0.0, 0.0 );
+        };
+
+        building229 = VisibleEntity {
+            model = "buildingModel229";
+            frame = CFrame::fromXYZYPRDegrees(141.0, 0.0, 108.0, 0, 0.0, 0.0 );
+        };
+
+        building230 = VisibleEntity {
+            model = "buildingModel230";
+            frame = CFrame::fromXYZYPRDegrees(156.0, 0.0, 117.0, 0, 0.0, 0.0 );
+        };
+
+        building231 = VisibleEntity {
+            model = "buildingModel231";
+            frame = CFrame::fromXYZYPRDegrees(150.0, 0.0, 108.0, 0, 0.0, 0.0 );
+        };
+
+       skybox = Skybox { 
+           texture ="cubemap/whiteroom/whiteroom-*.png"; 
+       }; 
+       sun = Light { 
+           attenuation = ( 0, 0, 1 ); 
+           bulbPower = Power3(4e+006 ); 
+           frame = CFrame::fromXYZYPRDegrees(-15, 207, -41, -164, -77, 77); 
+           nearPlaneZLimit = -100; 
+           shadowMapSize = Vector2int16(2048, 2048 ); 
+           spotHalfAngleDegrees = 20; 
+           spotSquare = true; 
+           type = "SPOT"; 
+       }; 
+    };
+   name = "scene/testVoronoi"
+};
